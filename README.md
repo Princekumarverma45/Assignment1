@@ -1,1 +1,1 @@
-This is a Basic html file for learning time
+This is a basic html file for Practice time
